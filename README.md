@@ -23,3 +23,4 @@ $ ./node_modules/selenium-standalone/bin/selenium-standalone start
 ```
 $ node example.js
 ```
+![image](https://user-images.githubusercontent.com/5538753/34251364-ccbed612-e67a-11e7-9145-18aa1b817537.png)
